@@ -1,0 +1,37 @@
+body {
+  background-image: url(https://static.vecteezy.com/ti/photos-gratuite/p1/1862565-degrades-colores-pour-fond-resume-pour-site-web-gratuit-photo.jpg);
+
+}
+
+#pp1 {
+  border: 5px solid black;
+  border-radius: 15px;
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  margin-left: 70px;
+
+}
+
+table {
+  width: 85%;
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: 100px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.tr {
+  height: 200px;
+}
+
+.total {
+  height: 200px;
+}
+
+.p1 {
+  margin-left: -90px;
+}
